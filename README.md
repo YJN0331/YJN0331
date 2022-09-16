@@ -9,4 +9,13 @@
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black)](https://github.com/YJN0331/Koreit) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/YJN0331/Koreit) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/YJN0331/Koreit)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)](https://github.com/YJN0331/Koreit) [![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=black)](https://github.com/YJN0331/Koreit)
 
+  
+  
+  
+  ### 💌  t o d a y 
+  
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJN0331&count_bg=%23FFB4B4&title_bg=%23FF4AB8&title=Thanks&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
+</div>
