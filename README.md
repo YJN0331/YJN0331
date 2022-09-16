@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=NYJ%200331&fontSize=70)
+<!-- header  -->
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0,2,2,2,2,3&height=300&section=header&text=NYJ%200331&fontSize=70)
 
 <div align=center>
 
