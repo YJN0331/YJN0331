@@ -1,6 +1,6 @@
 <!-- header  -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0,1,2,3,5,6,7,10,11,12,13,17,20,21,23,24,25,26&height=300&section=header&text=Here%20Comes/<br/>20a%20New%20Challenger&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0,1,2,3,5,6,7,10,11,12,13,17,20,21,23,24,25,26&height=300&section=header&text=Here%20Comes/<br>a%20New%20Challenger&fontSize=70)
 
 <div align=center>
 
