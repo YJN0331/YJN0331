@@ -1,8 +1,9 @@
 <!-- header  -->
+<div align=center>
+
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0,1,2,3,5,6,7,10,11,12,13,17,20,21,23,24,25,26&height=300&section=header&text=a%20New%20Challenger&fontSize=70&fontAlign=50)
 
-<div align=center>
 
   ## 🍉 S K I L L S🍉
 
